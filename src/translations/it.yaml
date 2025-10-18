@@ -39,7 +39,7 @@ weather:
   fog: "Nebbia"
   hail: "Grandine"
   lightning: "Fulmini"
-  lightning-rainy: "Fulmini, pioggia"
+  lightning-rainy: "Pioggia con fulmini"
   partlycloudy: "Parzialmente nuvoloso"
   pouring: "Pioggia intensa"
   rainy: "Piovoso"
